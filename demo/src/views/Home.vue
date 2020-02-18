@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-    111f
+    这是买了mbp的第一行代码 
   </div>
 </template>
 
